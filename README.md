@@ -5,4 +5,12 @@ The fighter comparison page allows you to compare the statistics of the two figh
 The all-time rankings page allows you to see the top 10 fighters for a given stat at any time since the beginning of the UFC.
 
 
-Worked on project collaboratively with @vinaykanigicherla. I worked on the frotend while he worked on the backend. 
+Worked on project collaboratively with @vinaykanigicherla. **I worked on the frontend while he worked on the backend. **
+## Fighter Comparison Page with Inputs:
+![Fighter Comparison Page with Inputs](https://github.com/vinod-kanigicherla/mmavisualize/blob/main/images/compare%20page.png)
+<br />
+## Fighter Comparison Page with Table and Graph Comparisons:
+![Fighter Comparison Page with Table and Graph](https://github.com/vinod-kanigicherla/mmavisualize/blob/main/images/compare%20page%202.png)
+<br />
+## All-Time Rankings Page:
+![All-Time Rankings Page](https://github.com/vinod-kanigicherla/mmavisualize/blob/main/images/all%20time%20ranking%20page.png)
